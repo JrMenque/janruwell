@@ -19,7 +19,7 @@ This package contains the redesigned React portfolio and the FastAPI contact API
 
 ## Backend
 
-The backend is a standard FastAPI server. Vercel is for the frontend; run the API on any Python-capable host (or keep it on Emergent, where it already runs).
+The backend is a standard FastAPI server. Vercel is for the frontend; run the API on any Python-capable host .
 
 ```bash
 cd backend
